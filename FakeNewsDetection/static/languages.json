@@ -1,0 +1,41 @@
+{
+    "en": {
+        "title": "Fake News Detection",
+        "hero_heading": "Truth or Lies? Find Out Now!",
+        "hero_text": "Welcome to VeriFact Hub, where discerning the truth behind headlines is our mission.",
+        "search_placeholder": "Search for topics...",
+        "search_btn": "Search",
+        "trending_news": "Trending News",
+        "see_more": "See More",
+        "footer_about": "About Us",
+        "footer_contact": "Contact Us",
+        "footer_privacy": "Privacy Policy",
+        "footer_terms": "Terms of Service"
+    },
+    "hi": {
+        "title": "फर्जी समाचार पहचान",
+        "hero_heading": "सत्य या झूठ? अभी जानें!",
+        "hero_text": "वेरिफ़ैक्ट हब में आपका स्वागत है, जहां सुर्खियों के पीछे की सच्चाई को समझना हमारा मिशन है।",
+        "search_placeholder": "विषय खोजें...",
+        "search_btn": "खोजें",
+        "trending_news": "ट्रेंडिंग समाचार",
+        "see_more": "और देखें",
+        "footer_about": "हमारे बारे में",
+        "footer_contact": "संपर्क करें",
+        "footer_privacy": "गोपनीयता नीति",
+        "footer_terms": "सेवा की शर्तें"
+    },
+    "es": {
+        "title": "Detección de Noticias Falsas",
+        "hero_heading": "¿Verdad o Mentira? ¡Descúbrelo Ahora!",
+        "hero_text": "Bienvenido a VeriFact Hub, donde discernir la verdad detrás de los titulares es nuestra misión.",
+        "search_placeholder": "Buscar temas...",
+        "search_btn": "Buscar",
+        "trending_news": "Noticias de Tendencia",
+        "see_more": "Ver Más",
+        "footer_about": "Sobre Nosotros",
+        "footer_contact": "Contáctenos",
+        "footer_privacy": "Política de Privacidad",
+        "footer_terms": "Términos de Servicio"
+    }
+}
