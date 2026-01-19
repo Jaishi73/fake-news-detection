@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, jsonify, request,redirect, url_for, session, flash
 import pickle
 import requests
@@ -9,7 +10,8 @@ from werkzeug.security import generate_password_hash, check_password_hash
 
 # Initialize Flask app
 app = Flask(__name__)
-app.secret_key = '3136298b3be1c582feb05ba6db20bdb34bf55183da07775f827c85946a002d8a'
+app.secret_key = os.getenv("GOOGLE_API_KEY")
+#'3136298b3be1c582feb05ba6db20bdb34bf55183da07775f827c85946a002d8a'
 
 # Load the trained model and vectorizer
 with open('model.pkl', 'rb') as model_file:
